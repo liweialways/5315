@@ -1,123 +1,108 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-  <employees>
+  <inventory>
     <data>
-      <name>James Bond</name>
-      <designation>Accountant</designation>
-      <salary>$170,750</salary>
-      <joining_date>2011/07/25</joining_date>
-      <office>Tokyo</office>
-      <extension>8422</extension>
+      <product>Fred Meyer Large Eggs</product>
+      <type>Dairy</type>
+      <price>$2.65</price>
+      <expire_date>2019/04/25</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Brielle Williamson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$372,000</salary>
-      <joining_date>2012/12/02</joining_date>
-      <office>New York</office>
-      <extension>4804</extension>
+      <product>Kroger Lactose Free Vitamin D Milk</product>
+      <type>Dairy</type>
+      <price>$3.49</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Ashton Cox</name>
-      <designation>Junior Technical Author</designation>
-      <salary>$86,000</salary>
-      <joining_date>2009/01/12</joining_date>
-      <office>San Francisco</office>
-      <extension>1562</extension>
+      <product>Kroger Lactose Free Calcium Enriched 2% Milk</product>
+      <type>Dairy</type>
+      <price>$2.65</price>
+      <expire_date>2019/04/25</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Airi Satou</name>
-      <designation>Accountant</designation>
-      <salary>$162,700</salary>
-      <joining_date>2008/11/28</joining_date>
-      <office>Tokyo</office>
-      <extension>5407</extension>
+      <product>Two Good By Light and Fit Mixed Berry Yogurt</product>
+      <type>Dairy</type>
+      <price>$1.49</price>
+      <expire_date>2019/04/29</expire_date>
+      <quantity>200</quantity>
     </data>
     <data>
-      <name>Caesar Vance</name>
-      <designation>Pre-Sales Support</designation>
-      <salary>$106,450</salary>
-      <joining_date>2011/12/12</joining_date>
-      <office>New York</office>
-      <extension>8330</extension>
+      <product>Kroger Dry Roasted Unsalted Peanuts</product>
+      <type>Snacks</type>
+      <price>$2.69</price>
+      <expire_date>2020/01/21</expire_date>
+      <quantity>80</quantity>
     </data>
     <data>
-      <name>Shad Decker</name>
-      <designation>Regional Director</designation>
-      <salary>$183,000</salary>
-      <joining_date>2008/11/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>6373</extension>
+      <product>Kroger Lightly Salted Peanuts</product>
+      <type>Snacks</type>
+      <price>$1.99</price>
+      <expire_date>2020/01/22</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Cedric Kelly</name>
-      <designation>Senior Javascript Developer</designation>
-      <salary>$433,060</salary>
-      <joining_date>2012/03/29</joining_date>
-      <office>Edinburgh</office>
-      <extension>6224</extension>
+      <product>Nutter Butter Peanut Butter Cream Patties</product>
+      <type>Snacks</type>
+      <price>$3.49</price>
+      <expire_date>2020/01/10</expire_date>
+      <quantity>90</quantity>
     </data>
     <data>
-      <name>Haley Kennedy</name>
-      <designation>Senior Marketing Designer</designation>
-      <salary>$313,500</salary>
-      <joining_date>2012/12/18</joining_date>
-      <office>London</office>
-      <extension>3597</extension>
+      <product>Chex Mix Savory Bold Party Blend</product>
+      <type>Snacks</type>
+      <price>$2.89</price>
+      <expire_date>2019/01/11</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Colleen Hurst</name>
-      <designation>Javascript Developer</designation>
-      <salary>$205,500</salary>
-      <joining_date>2009/09/15</joining_date>
-      <office>San Francisco</office>
-      <extension>2360</extension>
+      <product>Kroger Animal Crackers</product>
+      <type>Snacks</type>
+      <price>$1.99</price>
+      <expire_date>2020/01/01</expire_date>
+      <quantity>100</quantity>
     </data>
     <data>
-      <name>Dai Rios</name>
-      <designation>Personnel Lead</designation>
-      <salary>$217,500</salary>
-      <joining_date>2012/09/26</joining_date>
-      <office>Edinburgh</office>
-      <extension>2290</extension>
+      <product>White Seedless Grapes</product>
+      <type>Produce</type>
+      <price>$2.99</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
     <data>
-      <name>Herrod Chandler</name>
-      <designation>Sales Assistant</designation>
-      <salary>$137,500</salary>
-      <joining_date>2012/08/06</joining_date>
-      <office>San Francisco</office>
-      <extension>9608</extension>
+      <product>Banana</product>
+      <type>Produce</type>
+      <price>$0.3</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
     <data>
-      <name>Rhona Davidson</name>
-      <designation>Integration Specialist</designation>
-      <salary>$327,900</salary>
-      <joining_date>2010/10/14</joining_date>
-      <office>Tokyo</office>
-      <extension>6200</extension>
+      <product>Onions Green</product>
+      <type>Produce</type>
+      <price>$0.59</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
     <data>
-      <name>Sonya Frost</name>
-      <designation>Software Engineer</designation>
-      <salary>$103,600</salary>
-      <joining_date>2008/12/13</joining_date>
-      <office>Edinburgh</office>
-      <extension>1667</extension>
+      <product>Tomatoes</product>
+      <type>Produce</type>
+      <price>$0.5</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
     <data>
-      <name>Jena Gaines</name>
-      <designation>Office Manager</designation>
-      <salary>$90,560</salary>
-      <joining_date>2008/12/19</joining_date>
-      <office>London</office>
-      <extension>3814</extension>
+      <product>Lettuce</product>
+      <type>Produce</type>
+      <price>$0.4</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
     <data>
-      <name>Quinn Flynn</name>
-      <designation>Support Lead</designation>
-      <salary>$342,000</salary>
-      <joining_date>2013/03/03</joining_date>
-      <office>Edinburgh</office>
-      <extension>9497</extension>
+      <product>Avocado</product>
+      <type>Produce</type>
+      <price>$2.49</price>
+      <expire_date>2019/04/28</expire_date>
+      <quantity>50</quantity>
     </data>
-  </employees>
+  </inventory>
